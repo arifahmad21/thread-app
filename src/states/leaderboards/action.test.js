@@ -18,8 +18,8 @@ const fakeErrorResponse = new Error('Ups, something went wrong');
 const fakeLeaderboardResponse = [
   {
     id: 'users-123',
-    name: 'Asandy',
-    email: 'asandy@gmail.com',
+    name: 'Arif',
+    email: 'ariff@gmail.com',
     avatar: 'https://generated-image-url.jpg',
   },
 ];

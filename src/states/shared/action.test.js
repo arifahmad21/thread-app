@@ -18,9 +18,9 @@ import { receiveUserActionCreator } from '../users/action';
 const fakeThreadResponse = [
   {
     id: 'thread-1',
-    title: 'Thread Pertama',
+    title: 'This is first therad',
     body: 'Ini adalah thread pertama',
-    category: 'General',
+    category: 'thread',
     createdAt: '2021-06-21T07:00:00.000Z',
     ownerId: 'users-1',
     upVotesBy: [],
@@ -32,8 +32,8 @@ const fakeThreadResponse = [
 const fakeUsersResponse = [
   {
     id: 'users-123',
-    name: 'Asandy',
-    email: 'asandy@gmail.com',
+    name: 'Arif',
+    email: 'ariff@gmail.com',
     avatar: 'https://generated-image-url.jpg',
   },
 ];
